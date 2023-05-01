@@ -41,3 +41,7 @@ You can view the [code here](./Chatbot/chatbot.py).
 ## Assignment 7: Text Classification 2 ##
 
 You can view the [code here](./HW7).
+
+## Reflection ##
+
+I have a deep enthusiasm for Natural Language Processing (NLP) and its potential to transform how we interact with machines. In the future, I plan to work on personal projects that explore the limits of NLP, such as creating more advanced chatbots or developing new algorithms to improve machine translation. To keep up with the rapid pace of change in this field, I plan to stay current with the latest research and attend relevant conferences and workshops. Additionally, I am interested in exploring possible employment opportunities in the NLP field, either in industry via research teams at Big Tech or startups or academia, where I can contribute my expertise to cutting-edge research and development efforts.
