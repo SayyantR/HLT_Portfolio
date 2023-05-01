@@ -32,11 +32,11 @@ You can view the [code here](./HW5/HW5_SXR180064.py).
 
 ## Assignment 6: Text Classification 1 ##
 
-You can view the [code here](./HW6/HW6_SXR180064.py).
+You can view the [code here](./HW6/hw6_SXR180064.py).
 
 ## ChatBot ##
 
-You can view the [code here](./Chatbot/Chatbot.py).
+You can view the [code here](./Chatbot/chatbot.py).
 
 ## Assignment 7: Text Classification 2 ##
 
