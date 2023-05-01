@@ -16,4 +16,28 @@ You can view the [code here](./HW1/HW1_sxr180064.py) and the [writeup here](./HW
 
 This script takes a text file and performs various text preprocessing procedures on it. After that, it gets the 50 most common nouns and proceeds to initialize a word guessing game using those nouns as the word bank.
 
-You can the view [code here](./HW2/HW2_SXR180064.py).
+You can view the [code here](./HW2/HW2_SXR180064.py).
+
+## Assignment 3: WordNet ##
+
+You can view the [code here](./HW3/HW3_SXR180064.py).
+
+## Assignment 4: N-Gram Language Model ##
+
+You can view the [code here](./HW4).
+
+## Assignment 5: Web Crawler ##
+
+You can view the [code here](./HW5/HW5_SXR180064.py).
+
+## Assignment 6: Text Classification 1 ##
+
+You can view the [code here](./HW6/HW6_SXR180064.py).
+
+## ChatBot ##
+
+You can view the [code here](./Chatbot/Chatbot.py).
+
+## Assignment 7: Text Classification 2 ##
+
+You can view the [code here](./HW7).
